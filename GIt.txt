@@ -1,8 +1,14 @@
 This is my first git project file.....  Welocme to git bash....!!!!!
 
 class HelloGit{
-
-public static void main(String args[]){
-	System.out.println("Hello.....!!!!");
-}
+		void Showdate()
+	{
+				sysout("Show date now");
+	}
+		public static void main(String args[])
+	{
+			System.out.println("Hello.....!!!!Welocme to all of you");  
+			System.out.println("Hello.....!!!!Welocme to all of you");  
+	}
+		}
 }
