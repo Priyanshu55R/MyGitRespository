@@ -1,1 +1,8 @@
 This is my first git project file.....  Welocme to git bash....!!!!!
+
+class HelloGit{
+
+public static void main(String args[]){
+System.out.println("Hello");
+}
+}
