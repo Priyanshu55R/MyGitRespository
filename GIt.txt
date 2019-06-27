@@ -2,12 +2,13 @@ This is my first git project file.....  Welocme to git bash....!!!!!
 
 class HelloGit{
 
-		voidHelloGit()
+		public static final voidHelloGit()
 	{
 				System.out.println("Hello Git");
 	}
-		public static void main(String args[])
-	{
-		
+		public static void main(String args[]){
+			System.out.println("Hello to all of you");  
+			
+
 		}
 }
