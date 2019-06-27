@@ -2,7 +2,7 @@ This is my first git project file.....  Welocme to git bash....!!!!!
 
 class HelloGit{
 
-		voidHelloGit
+		voidHelloGit()
 	{
 				System.out.println("Hello Git");
 	}
